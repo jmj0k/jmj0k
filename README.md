@@ -25,6 +25,7 @@
 <h2>GITHUB STATUS</h2>
 
 ![Jmj0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmj0k&show_icons=true&theme=buefy)
+[![Jmj0k's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jmj0k&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jmj0k)
 
 
 <!--
