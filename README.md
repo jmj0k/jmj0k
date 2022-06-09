@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HELLO%20I'M%20JENNY&fontSize=90)
-</br></br></br></br></br></br></br></br>
 <h2>MY TECH STACK (& LEARNING) </h2>
 </br>
 <p>
@@ -25,7 +24,7 @@
 
 <h2>GITHUB STATUS</h2>
 
-![Jmj0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmj0k&show_icons=true&theme=swift)
+![Jmj0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmj0k&show_icons=true&theme=buefy)
 
 
 <!--
